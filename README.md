@@ -3,6 +3,7 @@
 ## Александра Манева, бр. на индекс 232008
 
 ###  Control Flow Graph
+![image](https://github.com/user-attachments/assets/2e984113-fd49-41bf-90d6-5aaeb3e3ed02)
 
 
 
